@@ -52,5 +52,5 @@ inputs:
     required: true
     default: '900'
 runs:
-  using: node12
+  using: node16
   main: compiled/index.js
